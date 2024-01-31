@@ -1,0 +1,34 @@
+{
+  "hash": "0b200e9b",
+  "configHash": "ab476578",
+  "lockfileHash": "bea5817f",
+  "browserHash": "3c137168",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "48a8dc78",
+      "needsInterop": true
+    },
+    "react-chat-engine-pretty": {
+      "src": "../../node_modules/react-chat-engine-pretty/dist/react-chat-engine-pretty.esm.js",
+      "file": "react-chat-engine-pretty.js",
+      "fileHash": "72517c62",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "1432e14d",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-DHEZ6HTF": {
+      "file": "chunk-DHEZ6HTF.js"
+    },
+    "chunk-5VW2NNEB": {
+      "file": "chunk-5VW2NNEB.js"
+    }
+  }
+}
