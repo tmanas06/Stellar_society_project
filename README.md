@@ -3,16 +3,13 @@ Music application with chat and community feature
 and with community feature we plan on adding news feature too
 
 
-# Project Name
 
-Brief description or introduction to your project.
 
 ## Added Files
 
 ### 1. `Chat_feature/`
 ### 2. `Basic_music_app/`
 
-Folder containing files related to the Basic Music App.
    - Currently, the Chat feature and Basic Music App are not running on Codespaces for unknown reasons. Please clone the repository locally to run these components.
    - Refer to the corresponding Readme files for specific instructions on running and setting up the repos.
 
