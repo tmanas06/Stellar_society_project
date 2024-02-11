@@ -15,7 +15,7 @@ and with community feature we plan on adding news feature too
 
  **Further Developments:**
    - **Basic_music_app:**
-     - Work on playing the full songs (currently set to 30 seconds).
+     - Work on playing the full songs (currently set to 30 seconds).-needs spotify premium.
      - Add scopes.
      - Implement user sign-in and sign-out.
      - Improve the UI.
