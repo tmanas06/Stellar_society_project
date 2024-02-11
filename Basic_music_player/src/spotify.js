@@ -1,4 +1,3 @@
-User
 import axios from "axios";
 
 const authEndpoint = "https://accounts.spotify.com/authorize?";
