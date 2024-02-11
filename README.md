@@ -15,7 +15,6 @@ and with community feature we plan on adding news feature too
 
  **Further Developments:**
    - **Basic_music_app:**
-     - Need to add refresh tokens.
      - Work on playing the full songs (currently set to 30 seconds).
      - Add scopes.
      - Implement user sign-in and sign-out.
